@@ -6,7 +6,8 @@ Full-stack engineer. Laravel, Vue, TypeScript, and the infrastructure underneath
 
 **Things I run**
 
-- [hytalecharts.com](https://hytalecharts.com) and [6charts.com](https://6charts.com): server listing and community sites. Laravel 12, Vue, Stripe subscriptions, voting, reviews, in-game rewards. Private repos, live.
+- [hytalecharts.com](https://hytalecharts.com): server listing and voting platform for Hytale. 6,400+ registered users, 100,000+ votes, 426,000 server page views and 7.5 million listing impressions since late 2025. Laravel 12, Vue 3, Stripe subscriptions, reviews and in-game vote rewards. Built and run solo, private repo.
+- [6charts.com](https://6charts.com): its newer GTA 6 sibling on the same stack.
 - A solar and battery setup at home: Victron and EcoFlow packs, Octopus tariff-driven charging, all automated through Home Assistant with ESP32 firmware I wrote, running on a two-node Proxmox cluster.
 
 **Open source here**

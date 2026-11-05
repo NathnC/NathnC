@@ -14,6 +14,7 @@ Full-stack engineer. Laravel, Vue, TypeScript, and the infrastructure underneath
 - [claude-incognito](https://github.com/NathnC/claude-incognito): incognito mode for Claude Code
 - [shippedit](https://github.com/NathnC/shippedit): "what did I ship this year?" from your commit history
 - [claude-harvest](https://github.com/NathnC/claude-harvest): save what a Claude Code session learned before it compacts
+- [claude-highlighter](https://github.com/NathnC/claude-highlighter): colour-highlights what matters in Claude Code replies: warnings, things to do, questions and changes
 - minerpulse (private): Laravel 13 + Livewire + Reverb wallboard and alerting for a solo-mining fleet, with Home Assistant integration. Happy to walk through it
 - [house3d](https://github.com/NathnC/house3d): three.js floor plan generated from robot-vacuum maps
 - [efwatch](https://github.com/NathnC/efwatch): off-box watchdog for an EcoFlow Delta 3 Plus over MQTT and protobuf
